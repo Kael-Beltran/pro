@@ -67,11 +67,11 @@ Atividade
 
 A atividade tem como objetivo avaliar os conhecimentos adquiridos nas disciplinas de Banco de Dados e Python, colocando em prática a criação e organização de um banco de dados, manipulação de informações com SQL e desenvolvimento utilizando Python.
 
-Integrantes
+Integrantes do Projeto
 Nome: Kael Andrade
 Nome: Murillo Caliel
 Nome: Nicolas de Campos
 
 ## Diagrama do Banco de Dados
 
-![Diagrama do Banco de Dados](draw-db.png)
+![Diagrama do Banco de Dados](draw_db.png)
